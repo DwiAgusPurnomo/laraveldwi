@@ -14,6 +14,7 @@ class HomeController extends Controller
         return view("artikel0158");
     }
     public function page3()
+    
     {
         return view("contacus0158");
     }
